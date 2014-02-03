@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="lib" path="H:/Seagate Dashboard 2.0/EMPRESS-PC/empress/Backup/4e2a8e19-6e80-4b0c-b7db-c430f6dd3f70/20130129_204131_empress/D/Workspace/OpenCV Sample - face-detection/Jama-1.0.3.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
